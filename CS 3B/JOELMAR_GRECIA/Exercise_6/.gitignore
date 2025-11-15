@@ -1,0 +1,7 @@
+# Exclude dataset folders
+garbage_classification/
+muffin_vs_chihuahua/
+
+# Exclude run_1 folder
+run_1/
+
