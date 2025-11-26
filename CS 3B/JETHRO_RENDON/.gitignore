@@ -1,0 +1,8 @@
+# Ignore these directories
+animals/
+test_set/
+training_set/
+run/
+run_animals/
+test_dir/
+train_dir/
