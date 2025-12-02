@@ -1,0 +1,30 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ML Model files and datasets
+*.h5
+*.hdf5
+archive/apple_orange_split/
+archive/apple_orange_split_raw/
+archive/raw_fruits/
+archive/test/
+archive/train/
