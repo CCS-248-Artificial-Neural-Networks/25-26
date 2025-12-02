@@ -6,11 +6,6 @@ This is your Github repository for submitting your coding activities, including 
 
 Instructions on submitting your activities:
 
-For video instruction, you can refer to this vidoes:
-
-1) Using Git CLI (by Allyn Ralf Ledesma aka Mazal): https://youtu.be/E67MFiC-j-M?feature=shared
-2) Using GitHub Desktop (by yours truly): https://youtu.be/O9WAGZSQXBQ
-
 Before submitting any activities, especially if it is your first time, please do the following:
 1. Fork this repository
 2. Clone the repository in your local device 
