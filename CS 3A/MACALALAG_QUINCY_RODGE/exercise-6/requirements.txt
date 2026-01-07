@@ -1,0 +1,6 @@
+tensorflow>=2.11.0
+# protobuf constrained to <6 to satisfy googleapis-common-protos (and avoid protobuf 6+ incompatibility)
+protobuf<6,>=3.19.5
+numpy
+Pillow
+matplotlib
