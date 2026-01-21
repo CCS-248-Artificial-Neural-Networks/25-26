@@ -1,0 +1,26 @@
+# Dataset folders - exclude from version control
+rock paper scissor/train/
+rock paper scissor/test/
+rock paper scissor/rps-cv-images/
+rock paper scissor/paper/
+rock paper scissor/rock/
+rock paper scissor/scissors/
+
+muffin vs chihuahua/train/
+muffin vs chihuahua/test/
+
+# Trained model files (optional - uncomment if you want to exclude these too)
+# *.h5
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
